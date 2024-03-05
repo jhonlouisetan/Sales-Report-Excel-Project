@@ -1,1 +1,1 @@
-# Sales-Report-Excel-Project
+A hands-on sales report project in Excel
